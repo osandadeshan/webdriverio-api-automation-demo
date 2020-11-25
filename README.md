@@ -2,6 +2,7 @@
 
 ## Introduction
 WebDriverIO is Javascript based test automation framework built over nodeJs. It is an open-source project developed for the automation testing community. WebDriverIO is extendible, compatible, feature-rich, and easy to install.
+Here in this demo project, I have added the [Axios](https://github.com/axios/axios) library, in order to support API automation too.
 
 ## How to use?
 
